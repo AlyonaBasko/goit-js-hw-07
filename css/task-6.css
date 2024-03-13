@@ -7,11 +7,10 @@
     padding: 32px;
     width: 486px;
     height: 160px;
+    gap: 16px;
   }
   
- #boxes div {
-    padding-right: 16px;
- }
+ 
 
   #controls {
     border-radius: 8px;
@@ -45,6 +44,5 @@ padding: 8px 16px;
 width: 120px;
 height: 40px;
 border: none;
-
-   }
-
+cursor: pointer;
+}
